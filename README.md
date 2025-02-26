@@ -10,20 +10,6 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=buoooou&theme=xcode&hide_border=true" alt="Activity graph">
 </a>
-<!---Stats--->
-## <div align="center"><img src="https://github.com/user-attachments/assets/a5d6dc97-e708-4b0e-afac-f78e13cac775" width = 40px height = 40px > Stats and Activity</h2></div>
-
- <!---GeeksforGeeks & LeetCode--->
-<table width="100">
-  <tr border="0">
-    <td align='center' width="510">
-      <!-- GFG-->
-      <img src="https://gfgstatscard.vercel.app/jomonjoy" alt="GFG stats" />
-    <td align='center' width="510">
-      <!--LeetCode-->
-      <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/jomonjoy?theme=dark&font=Nunito&ext=heatmap" />
-    </td>
-</table>
 
 <!---GitHub--->
 <table width="100">
@@ -31,46 +17,31 @@
     <td align='center' width="510">
       <!-- GitHub Streak-->
        <br><br>
-       <img src="https://github-readme-streak-stats-iota-blue.vercel.app?user=jomon-j&theme=react&border_radius=15&card_width=450&card_height=170" alt="GitHub Streak" />
-<!--       <img src="https://gh-readme-profile.vercel.app/api?username=jomon-j&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" /> -->
+       <img src="https://github-readme-streak-stats-iota-blue.vercel.app?user=buoooou&theme=react&border_radius=15&card_width=450&card_height=170" alt="GitHub Streak" />
+      <img src="https://gh-readme-profile.vercel.app/api?username=buoooou&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" />
       <br>
       <!--📏LINE-->
       <img src="https://github.com/user-attachments/assets/4cf9223c-703d-4cfd-8997-75dd4ae4756a">
       <!-- GitHub Stats-->
       <br><br>
-      <img width=450 src="https://github-readme-stats.vercel.app/api?username=jomon-j&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats" />
+      <img width=450 src="https://github-readme-stats.vercel.app/api?username=buoooou&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats" />
       <br><br>
     <td align='center' width="510">
       <!--GitHub Languages-->
       <img src="https://github.com/user-attachments/assets/5f8a7572-314d-474e-af72-bf44ef89c881" align="center" width="300" alt="github anime"/><br><br>
-      <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomon-j&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><br><br>
-<!--       <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomon-j&theme=github_dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8"/> -->
+      <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buoooou&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><br><br>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <!---GitHub Trophy--->
-      <img src="https://github-profile-trophy.vercel.app/?username=jomon-j" target="_blank" alt="GitHub Trophy" />
+      <img src="https://github-profile-trophy.vercel.app/?username=buoooou" target="_blank" alt="GitHub Trophy" />
     </td>
   </tr>
 </table>
 
-<img src="https://github.com/user-attachments/assets/d6a324eb-6397-48b6-b0e6-e2d8576d3044"><br>
 
-<!---📈ACTIVITY GRAPH --->
-## <div align="center"><h3><img src="https://github.com/user-attachments/assets/2b945ead-ec19-4428-bd51-4e3979494969" width = 30px height = 40px> Activity Graph </h3></div>
 
-<table width="100">
-  <tr border="0">
-    <td align='center' width="1010">
-      <img  align="center"  src="https://github-readme-activity-graph.vercel.app/graph/?username=jomon-j&theme=github-dark&hide_border=true" img alt="jomon's Activity Graph"/>
-    </td>
-  </tr>
-</table>
-
-<!---Footer--->
-<img src="https://github.com/user-attachments/assets/f652a820-25d6-46ac-af72-2c7f2da08940" height="80" width="80" align="right"/>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&&&color=ffffff&center=true&vCenter=true&width=400&height=50&duration=5500&lines=Thank+you+for+visiting...+💙;" />
 
   <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
   <div style="text-align: center;">
