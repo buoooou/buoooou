@@ -33,6 +33,7 @@
     <p>Hello, I am kroulzhang, a full-stack engineer, discovering some interesting things.</p>
     <p> I am very interested in AI/Web3/UI/human-centered project development.</p>
     <p> Long-term use of Java/Nextjs/OC.</p>
+    <p> TailWindCSS UI Library：https://buouui.com</p>
     <p> You can contact me through X, or follow me on GitHub to stay updated with my latest activities.</p>
     <p> Programming often happens late at night, please do not disturb, but I welcome your suggestions in the morning.</p>
   </div>
@@ -42,6 +43,7 @@
     <h2>👋 关于我</h2>
     <p>你好，我是kroulzhang，一名全栈工程师， 发现一些有趣的事情。</p>
     <p> 我对AI/Web3/UI/以人为本项目开发非常感兴趣。</p>
+    <p> TailWindCSS UI组件库：https://buouui.com</p>
     <p> 长期使用Java/Nextjs/OC。</p>
     <p> 你可以通过X联系我，或者在GitHub上关注我，了解我的最新动态。</p>
     <p> 编程常在深夜，请勿打扰，但欢迎清晨收到你的建议。</p>
