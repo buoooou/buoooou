@@ -43,7 +43,7 @@
 
 
 
-  <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
+  <!-- <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
   <div style="text-align: center;">
     <h2>👋 About Me</h2>
     <p>Hello, I'm buoooou, a security engineer who loves exploring new systems and security vulnerabilities.</p>
@@ -63,5 +63,5 @@
     <p>💞️ 欢迎为我的项目提PR，让它们变得更加完善。</p>
     <p>📫 你可以通过X联系我，或者在GitHub上关注我，了解我的最新动态。</p>
     <p>🌑 编程常在深夜，请勿打扰，但欢迎清晨收到你的建议。</p>
-  </div>
+  </div> -->
 </div>
