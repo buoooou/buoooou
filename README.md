@@ -3,10 +3,6 @@
   <p>Visitor count</p>
   <img src="https://profile-counter.glitch.me/buoooou/count.svg" alt="Visitor's Count" />
 </div>
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=buoooou&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="buoooou's GitHub Stats" />
-  <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs?username=buoooou&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=2&border_radius=10&show_icons=true&locale=en" alt="buoooou's Most Used Languages" />
-</div>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=buoooou&theme=xcode&hide_border=true" alt="Activity graph">
 </a>
@@ -24,18 +20,10 @@
       <img src="https://github.com/user-attachments/assets/4cf9223c-703d-4cfd-8997-75dd4ae4756a">
       <!-- GitHub Stats-->
       <br><br>
-      <img width=450 src="https://github-readme-stats.vercel.app/api?username=buoooou&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats" />
-      <br><br>
     <td align='center' width="510">
-      <!--GitHub Languages-->
-      <img src="https://github.com/user-attachments/assets/5f8a7572-314d-474e-af72-bf44ef89c881" align="center" width="300" alt="github anime"/><br><br>
+        <img width=450 src="https://github-readme-stats.vercel.app/api?username=buoooou&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats" />
+      <br><br>
       <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buoooou&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><br><br>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <!---GitHub Trophy--->
-      <img src="https://github-profile-trophy.vercel.app/?username=buoooou" target="_blank" alt="GitHub Trophy" />
     </td>
   </tr>
 </table>
