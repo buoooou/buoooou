@@ -14,14 +14,14 @@
       <!-- GitHub Streak-->
        <br>
        <img src="https://github-readme-streak-stats-iota-blue.vercel.app?user=buoooou&theme=react&border_radius=15&card_width=450&card_height=170" alt="GitHub Streak" />
+               <img width=450 src="https://github-readme-stats.vercel.app/api?username=buoooou&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats" />
+      <br>
       <img src="https://gh-readme-profile.vercel.app/api?username=buoooou&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" />
       <br>
       <!--📏LINE-->
       <!-- GitHub Stats-->
     <td align='center' width="510">
         <br>
-        <img width=450 src="https://github-readme-stats.vercel.app/api?username=buoooou&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats" />
-      <br>
       <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buoooou&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><br>
     </td>
   </tr>
