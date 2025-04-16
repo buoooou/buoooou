@@ -39,14 +39,5 @@
   </div>
   <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
 
-  <div style="text-align: center;">
-    <h2>👋 关于我</h2>
-    <p>你好，我是kroulzhang，一名全栈工程师， 发现一些有趣的事情。</p>
-    <p> 我对AI/Web3/UI/以人为本项目开发非常感兴趣。</p>
-    <p> TailWindCSS UI组件库：https://buouui.com</p>
-    <p> 长期使用Java/Nextjs/OC。</p>
-    <p> 你可以通过X联系我，或者在GitHub上关注我，了解我的最新动态。</p>
-    <p> 编程常在深夜，请勿打扰，但欢迎清晨收到你的建议。</p>
-  </div>
 
 </div>
