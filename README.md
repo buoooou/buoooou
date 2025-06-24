@@ -33,8 +33,8 @@
     <p>Hello, I am kroulzhang, a full-stack engineer, discovering some interesting things.</p>
     <p> I am very interested in AI/Web3/UI/human-centered project development.</p>
     <p> Long-term use of Java/Nextjs/OC.</p>
-    <p> TailWindCSS UI Library：https://buouui.com</p>
-    <p> AI-Powered Content Platform：https://postion.app</p>
+    <p> TailWindCSS UI Library：<a href="https://buouui.com" target="_blank" rel="noopener noreferrer">https://buouui.com</a></p>
+    <p> AI-Powered Content Platform：<a href="https://postion.app" target="_blank" rel="noopener noreferrer">https://postion.app</a></p>
     <p> You can contact me through X, or follow me on GitHub to stay updated with my latest activities.</p>
     <p> Programming often happens late at night, please do not disturb, but I welcome your suggestions in the morning.</p>
   </div>
