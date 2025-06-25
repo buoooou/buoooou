@@ -35,7 +35,7 @@
     <p> Long-term use of Java/Nextjs/OC.</p>
     <p> TailWindCSS UI Library：<a href="https://buouui.com" target="_blank" rel="noopener noreferrer">https://buouui.com</a></p>
     <p> All-in-one Content Platform：<a href="https://postion.app" target="_blank" rel="noopener noreferrer">https://postion.app</a></p>
-      <p> Subdomain sites<a href="https://postions.app" target="_blank" rel="noopener noreferrer">https://postions.app</a></p>
+      <p> Subdomain sites：<a href="https://postions.app" target="_blank" rel="noopener noreferrer">https://postions.app</a></p>
     <p> You can contact me through X, or follow me on GitHub to stay updated with my latest activities.</p>
     <p> Programming often happens late at night, please do not disturb, but I welcome your suggestions in the morning.</p>
   </div>
