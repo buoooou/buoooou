@@ -41,5 +41,4 @@
   </div>
   <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
 
-
 </div>
