@@ -25,7 +25,7 @@
   <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
   <div style="text-align: center;">
     <h2>👋 About Me</h2>
-    <p>Hello, I am kroulzhang, a full-stack engineer, discovering some interesting things.</p>
+    <p>Hello, I am Clerk Zhang, a full-stack engineer, discovering some interesting things.</p>
     <p> I am very interested in AI/Web3/UI/human-centered project development.</p>
     <p> Long-term use of Java/Nextjs/OC.</p>
     <p> TailWindCSS UI Library：<a href="https://buouui.com" target="_blank" rel="noopener noreferrer">https://buouui.com</a></p>
