@@ -1,20 +1,23 @@
 <div style="display: flex; flex-direction: column; align-items: center; font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; color: #333;">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=buoooou&theme=xcode&hide_border=true" alt="Activity graph">
-</a>
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://komarev.com/ghpvc/?username=buoooou&color=blue&style=flat-square" alt="Visitor's Count" />
+</div>
 
-<!---GitHub--->
+<!--GitHub-->
 <table width="100">
   <tr border="0">
     <td align='center' width="510">
       <!-- GitHub Streak-->
        <br>
-               <img width=450 src="https://github-readme-stats.vercel.app/api?username=buoooou&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats" />
+       <img src="https://streak-stats.demolab.com?user=buoooou&theme=react&border_radius=15&card_width=450&card_height=170" alt="GitHub Streak" />
+              <img width=450 src="https://github-readme-stats.vercel.app/api?username=buoooou&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats" />
       <br>
       <img src="https://gh-readme-profile.vercel.app/api?username=buoooou&theme=github_dark_tritanopia&border_width=0.1&photo_quality=100&format=svg&hide=issues&border_radius=17.5&hide_border=true&stroke_color=1F6FEB&bg_color=0D1117" />
       <br>
       <!--📏LINE-->
       <!-- GitHub Stats-->
+    </td>
     <td align='center' width="510">
         <br>
       <img width=450 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buoooou&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><br>
